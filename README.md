@@ -22,27 +22,15 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="width: 48%; text-align: left;">
-    - 🎓 **M.Sc. in Computer Science** graduate.  
-    - 🤖 Passionate about **Generative AI**, **Machine Learning**, and **Data Science**.  
-    - 📚 **Researcher** with a focus on **AI-driven accessibility solutions** and **language models**.  
-    - 💼 Focused on **Finance-related analytics** and **financial modeling** to leverage AI in **financial services**.  
-    - 🔭 Always experimenting with **AI applications** to solve real-world problems, especially in **risk management** and **financial predictions**.  
-  </div>
-
-  <div style="width: 48%; text-align: right;">
-    <video width="300" height="200" controls>
-      <source src="Video/Demo.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-
-</div>
-
+| **About Me** | **GIF** |
+|--------------|---------|
+| - 🎓 **M.Sc. in Computer Science** graduate.  
+  - 🤖 Passionate about **Generative AI**, **Machine Learning**, and **Data Science**.  
+  - 📚 **Researcher** with a focus on **AI-driven accessibility solutions** and **language models**.  
+  - 💼 Focused on **Finance-related analytics** and **financial modeling** to leverage AI in **financial services**.  
+  - 🔭 Always experimenting with **AI applications** to solve real-world problems, especially in **risk management** and **financial predictions**. | ![Demo GIF](https://github.com/Parmod2310/Parmod2310/raw/main/Video/Demo.gif) |
 ---
 
 ## 💻 Skills & Tools
