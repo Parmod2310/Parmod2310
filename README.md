@@ -22,16 +22,11 @@
 
 ---
 
-## 🚀 About Me
+# About Me
+|                                                                          |                                                             |
+|-------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| 1. 🎓 **M.Sc. in Computer Science** graduate.<br>2. 🤖 Passionate about **Generative AI**, **Machine Learning**, and **Data Science**.<br>3. 📚 **Researcher** with a focus on **AI-driven accessibility solutions** and **language models**.<br>4. 💼 Focused on **Finance-related analytics** and **financial modeling** to leverage AI in **financial services**.<br>5. 🔭 Always experimenting with **AI applications** to solve real-world problems, especially in **risk management** and **financial predictions**. | ![Demo GIF](https://github.com/Parmod2310/Parmod2310/raw/main/Video/Demo.gif) |
 
-| **About Me** | **GIF** |
-|--------------|---------|
-| - 🎓 **M.Sc. in Computer Science** graduate.  
-  - 🤖 Passionate about **Generative AI**, **Machine Learning**, and **Data Science**.  
-  - 📚 **Researcher** with a focus on **AI-driven accessibility solutions** and **language models**.  
-  - 💼 Focused on **Finance-related analytics** and **financial modeling** to leverage AI in **financial services**.  
-  - 🔭 Always experimenting with **AI applications** to solve real-world problems, especially in **risk management** and **financial predictions**. | ![Demo GIF](https://github.com/Parmod2310/Parmod2310/raw/main/Video/Demo.gif) |
----
 
 ## 💻 Skills & Tools
  ![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=sql&logoColor=white)
