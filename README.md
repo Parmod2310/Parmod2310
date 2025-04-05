@@ -72,7 +72,8 @@
 - **[AI-powered Accessibility Solutions](#)** (Generative AI): Contributed to projects aimed at assisting visually impaired individuals using advanced AI techniques.
 
 ### 💼 **Internships & Contributions**
-- **Brainwave Matrix Solutions** (AI/ML Intern): Building and deploying fake news detection models, contributing to data science efforts for predictive analytics.
+- **CodingJR** (AI Research Intern): Engaged in deep research on generative AI and large language models (LLMs), UI/UX.
+- **OpenQQuantify** (Software Developer Intern): Contributed to signal engineering and AI-driven development using Cesium Signal Processing. Worked on real-time data pipelines and implemented advanced AI solutions in collaboration with the Technology Department.
 - **Innomatics Research Labs** (Data Science Intern): Worked on AI models for accessibility, focusing on data analysis and NLP for real-world applications.
 - **Acmegrade** (Data Science Intern): Worked on machine learning models for various applications, including personalized recommendations and data analytics.
 
@@ -132,7 +133,7 @@ I am currently exploring opportunities to combine **Generative AI** and **financ
 
 ## 💬 Testimonials
 
-> **Parmod brings a unique blend of technical skills and creativity to the table. His AI and machine learning models exceeded expectations and showed great potential.** -  Lead Data Scientist at Brainwave Matrix Solutions
+> **Parmod demonstrated outstanding technical skills and collaboration during his internship. His work on Cesium Signals and AI implementations significantly contributed to our engineering research efforts.** – **Paul George Savluc**, CEO of OpenQQuantify
 
 > **Parmod is a true innovator in the field of AI and Data Science. His passion for accessible technology and his ability to develop impactful AI-powered solutions is unmatched.** - **Kanav Bansal** Chief Data Scientist at Innomatics Research Labs
 
